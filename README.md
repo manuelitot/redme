@@ -1,2 +1,2 @@
 ## Markdown-Cheatsheet
-[Click on this](https://github.com/tchapi/markdown-cheatsheet)
+[Click on this for the cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
